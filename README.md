@@ -1,4 +1,4 @@
-#Cursors
+Cursors
 
 ![](sample.png)
 
