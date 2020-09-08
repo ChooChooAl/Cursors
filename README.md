@@ -1,5 +1,6 @@
-![](sample.png)
 #Cursors
+
+![](sample.png)
 
 This is a collection of 3 cursor themes.
 The only difference between the 3 is the wait cursor.
