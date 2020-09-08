@@ -12,5 +12,5 @@ Or /usr/share/icons for global use.
 To make settings->themes show the thumbnail properly the thumbnails must be copied into /usr/share/cinnamon/thumbnails/cursors folder.
 If using AKcursors.blk then the command would look like this:
 
-sudo cp /home/alan/.icons/AKcursors.blk/thumbnail.png /usr/share/cinnamon/thumbnails/cursors/AKcursors.blk.png
+sudo cp ~/.icons/AKcursors.blk/thumbnail.png /usr/share/cinnamon/thumbnails/cursors/AKcursors.blk.png
 
