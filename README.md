@@ -13,3 +13,4 @@ To use them, goto settings->themes <BR>To show the thumbnail properly in the set
 Example:  If using AKcursors.blk then the command would look like this:<br>
 sudo cp ~/.icons/AKcursors.blk/thumbnail.png /usr/share/cinnamon/thumbnails/cursors/AKcursors.blk.png
 
+These can be used in KDE also.  There are 24px 32px and 48px sizes.
