@@ -1,11 +1,11 @@
 
 This is a collection of cursor themes that I've been creating.<br>Sample of the different cursors in a theme.<br>
-<img width="672" height="288" alt="montage" src="https://github.com/user-attachments/assets/aad3527f-61fc-41d9-bfd3-0f49c5720f7f" />
+
 
 The only difference between them is the wait cursor. &nbsp; I designed these to be used with a dark theme.<br>
 Some of the wait cursors can be seen here.
 
-<img width="1176" height="414" alt="montage" src="https://github.com/user-attachments/assets/21fb0235-60ef-405d-9d0f-7ce403a106c4" />
+
 
 
 
