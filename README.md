@@ -1,13 +1,13 @@
 
 This is a collection of cursor themes that I've been creating.<br>Sample of the different cursors in a theme.<br>
-
+![Sample cursors used for theme](images/montage1.png)
 
 The only difference between them is the wait cursor. &nbsp; I designed these to be used with a dark theme.<br>
 Some of the wait cursors can be seen here.
 
+![Sample cursor themes](images/montage2.png)
 
-
-
+<br>
 
 Extract the tar file into ~/.icons folder for personal use.
 Or /usr/share/icons for global use.
